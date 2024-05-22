@@ -1,7 +1,7 @@
 <template>
     <div class="weather-container">
       <div class="weather-welcome">
-        <h1>Welcome to WeatherVue!</h1>
+        <h1>Welcome to RSNWeather!</h1>
         <p style="font-style: italic;">How to use?</p>
         <p>Just enter the city to find out its weather!</p>
         <div class="input-btn">
